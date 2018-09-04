@@ -1,1 +1,1 @@
-Learning branching
+Commiting on a branch.
